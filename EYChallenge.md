@@ -9,3 +9,15 @@ Team Members:
 - Sohee -
 - Darren -
 - RH  -
+
+# 📖 Team Participation
+
+Team Name : Care Pledgoors
+
+Workshop Attendees:
+-
+-
+
+# 🔢 Testing
+
+![image](https://github.com/PrintRH/Defi---FCC/assets/93211672/d8893af9-96bd-4794-9aab-db522a6e308f)
