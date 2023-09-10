@@ -14,10 +14,14 @@ Team Members:
 
 Team Name : Care Pledgoors
 
-Workshop Attendees:
--
--
+EY Workshop Attendees:
+- Aheesh
+- Darren
+- RH
 
-# 🔢 Testing
+# 🎨 Network Design
 
-![image](https://github.com/PrintRH/Defi---FCC/assets/93211672/d8893af9-96bd-4794-9aab-db522a6e308f)
+Care Pledge interacts with Allo Protocol - an open-source protocol which is deployed on Ethereum. This code heavily utilizes [Allo Docs](https://github.com/allo-protocol/allo-v2) in its development. Since Allo Protocol is maintained on Ethereum, this code is written in Solidity (code: [Care Pledge Code](https://github.com/baileyspraggins/care-pledge)) in order to have this code deployed on the Ethereum network.
+
+Public Network of Choice: Ethereum [Allo Contracts](https://docs.allo.gitcoin.co/overview/contracts)
+
